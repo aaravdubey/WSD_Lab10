@@ -1,0 +1,23 @@
+#nameError, #emailError, #inquiryerror {
+  color: red;
+  visibility: hidden;
+}
+
+.display-error {
+  visibility: visible!important;
+}
+
+.mt-6 {
+  margin-top: 8rem;
+}
+
+hr {
+  border: 0;
+  padding: 0.15rem 0;
+  background-color: rgb(53, 53, 53);
+}
+
+.submit-success {
+  color: green;
+  padding: 3px 0;
+}
